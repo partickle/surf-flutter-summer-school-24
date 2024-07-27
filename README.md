@@ -4,3 +4,4 @@
 
 Демонстрация работы приложения:
 
+https://github.com/partickle/surf-flutter-summer-school-24/blob/all-project/docs/demonstration.mkv
